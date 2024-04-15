@@ -1,0 +1,14 @@
+node_modules/
+
+.env
+
+build/
+
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+
+package-lock.json
+
